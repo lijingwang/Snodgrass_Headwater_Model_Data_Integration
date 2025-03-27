@@ -1,0 +1,24 @@
+"@Soil_Perm@":
+  low: 5e-13
+  high: 5e-12
+"@Soil_Poro@":
+  low: 0.2
+  high: 0.5
+"@103_Perm@":
+  low: 5e-14
+  high: 5e-13
+"@103_Poro@":
+  low: 0.10
+  high: 0.20
+"@104_Perm@":
+  low: 5e-13
+  high: 5e-12
+"@104_Poro@":
+  low: 0.05
+  high: 0.15
+"@Diff_Temp_conifer@":
+  low: 2.0
+  high: 3.0
+"@Melt_rate_conifer@":
+  low: 1.5
+  high: 2.74
